@@ -1,0 +1,24 @@
+Existen dos grupos principales de arrays, para mutar arrays como son .push, .shift, .unshit o para recorrer arrays para obtener propiedades de estos objetos que están dentro de los arrays. Ejemplo  continucación.
+
+var ingredientes = [
+	{nombre: "carne", costo: 3000},
+	{nombre: "lechuga", costo: 2500},
+	{nombre: "tomate", costo: 1500},
+	{nombre: "papas", costo: 10000},	
+	{nombre: "queso", costo: 9000},
+	{nombre: "pan" ,costo: 250},
+	{nombre: "salsa", costo: 300},
+];
+
+var ingredientesFiltrados = ingredientes.filter(function(ingrediente){
+	return ingredientes.costo <= 1000;
+})
+
+lo que hace .filter ayuda a filtrar cosas específicas y validar si algo es verdadero o falso y no  modifica el array sino que genera uno nuevo.
+
+var nombreIngredientes = ingredientes.map(function(ingrediente){
+	return ingrediente.nombre
+})
+
+De la misma forma genera un array nuevo, y mapea los nombres de los ingredintes y los convierte de objetos a strings dentro del array nuevo
+

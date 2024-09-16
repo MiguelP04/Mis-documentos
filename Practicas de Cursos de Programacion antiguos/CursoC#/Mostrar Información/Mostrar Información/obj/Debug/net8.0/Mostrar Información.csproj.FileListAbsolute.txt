@@ -1,0 +1,14 @@
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\bin\Debug\net8.0\Mostrar Información.exe
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\bin\Debug\net8.0\Mostrar Información.deps.json
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\bin\Debug\net8.0\Mostrar Información.runtimeconfig.json
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\bin\Debug\net8.0\Mostrar Información.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\bin\Debug\net8.0\Mostrar Información.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.AssemblyInfoInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.AssemblyInfo.cs
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\refint\Mostrar Información.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\Mostrar Información.genruntimeconfig.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Mostrar Información\Mostrar Información\obj\Debug\net8.0\ref\Mostrar Información.dll

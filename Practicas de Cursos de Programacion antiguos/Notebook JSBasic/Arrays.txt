@@ -1,0 +1,30 @@
+¿Qué es un array?
+
+Un array es una estructura de datos que es de tipo objeto y es un valor que contiene más valores adentro.
+
+La forma de generar un array es con corchetes --> []
+
+Para declarar e inicializar un array es con una variable --> var frutas = [Manzana, Pera, Lechoza, Aguacate];
+
+Para saber la longitud de un array --> frutas.lenght
+
+Para acceder al elemento de un array por ejemplo Manzana --> frutas[0];
+ 
+Existen métodos que mutan un array estos son:
+
+Generar un elemento en la última posición del array --> frutas.push("Uva");
+
+Borrar un elemento en la última posición del array --> frutas.pop
+
+Generar un elemento en la primera posición del array 
+--> frutas.unshift("Uva");
+
+Borrar un elemento en la primera posición del array --> frutas.shift
+
+frutas.indeof("Pera"); --> Devuelve la posición del index es decir 1
+
+Para borrar un elemento según su índice ---> frutas.splice(2, 1); // el primer parámetro especifica el índice del elemento que quiero eliminar, en este caos es Lechoza y el segundo parámetro especifica cuantos elementos del arreglo quiero eliminar, en este caso solo uno.
+
+
+IMPORTANTE: No se puede combinar tipos de datos en un mismo array como un string y un number
+

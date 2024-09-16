@@ -1,0 +1,30 @@
+ ¿Por qué es importante Js?
+
+En 2019 complementaban html, css y js, a finales de 2019 la W3C decidió y subió un nuevo lenguaje de programación llamado WebAssembly en la que es diferente a js ya que lo puedes utilizar para contruir productos web sin la necesidad de incorporar html, css y js. Por otro lado, 
+
+¿Por que estudiar js?
+
+Este conforma una comunidad bastante extensa en la cuál manejan diferentes tipos de funciones, por lo tanto existen variedades de frameworks o librerias para hacer tu proyecto mucho más eficiente, y robustos. 
+
+Sitios web basados en:
+
+Angular: Forbes
+React: Airbnb
+Vue: GitLab
+Aplicaciones basadas en React Native:
+
+UberEats
+Discord
+Instagram
+Fuente: Enlace
+Aplicaciones para Escritorio basados en Electron:
+
+Visual Studio Code
+WhatsApp
+Twitch
+Ver más aplicaciones de Electron JS
+Compañías que usan Node.JS para parte de su backend:
+
+Netflix
+Linkedin
+PayPal

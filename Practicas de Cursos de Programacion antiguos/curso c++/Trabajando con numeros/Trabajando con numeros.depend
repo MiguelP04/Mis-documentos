@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700336207 source:c:\users\miguel petit\documents\curso c++\trabajando con numeros\main.cpp
+	<iostream>
+	<cmath>
+

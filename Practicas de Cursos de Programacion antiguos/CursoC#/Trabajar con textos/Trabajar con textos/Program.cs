@@ -1,0 +1,10 @@
+﻿string nombre = "Miguel";
+string apellido = "Petit";
+string texto = string.Concat(nombre, " ", apellido);
+string frase = $"{nombre} {apellido}";
+Console.WriteLine(frase.Length);
+Console.WriteLine(frase.ToUpper());
+Console.WriteLine(frase.ToLower());
+Console.WriteLine(frase.ToUpper().Contains("E"));
+Console.WriteLine(frase.IndexOf("M"));
+Console.WriteLine(frase.Substring(3, 5));

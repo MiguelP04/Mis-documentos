@@ -1,0 +1,15 @@
+Como calcular los perímetros y área de las figuras geométricas:
+
+CUADRADO: para calcular el perímetro --> un lado * 4.
+
+Para calcular el área ---> En caso del cuadrado diríamos unos de los lados al cuadrado.
+
+TRIÁNGULO: para calcular el perímetro --> se suman todos los lados
+
+para calcular el área: se multiplica la Altura que es la distancia entre la base y la punta de arriba del triángulo por la Base / 2 
+NOTA: al multiplicar la altura y la base nos daría el área de un cuadrado, si se divide a la mitad nos daría el área del triángulo
+
+Círculo: para calcular el perímetro (circunferencia) -->  Se multiplica el diámetro por el pi (π)
+ Nota:  El radio se calcula si ponemos un punto en el medio del círculo y trazamos un raya hacia el borde, y el diametro se puede calcular de dos formas: multiplicando el radio * 2 o trazando una línea desde un borde del círculo completamente opuesto hacia el otro lado.
+
+Para calcular el área --> se multiplica radio al cuadrado por pi (π).

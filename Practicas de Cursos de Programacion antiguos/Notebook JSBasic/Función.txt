@@ -1,0 +1,24 @@
+¿Qué es una función?
+
+Una función es un conjunto de sentencias que se utilizan para realizar ciertas acciones con los valores antes , utilizamos este conjunto de sentencia utlizando los valores 
+
+Funciones Declarativas
+
+Una función declarativa es cuando se le otorga a la función misma
+
+function miFuncion(){
+	return 3;
+}
+
+miFuncion(1,2); 
+Función Expresiva
+
+Se le conoce también como función anónima ya que esta función es guardada dentro de una variable en memoria 
+
+var miFuncion = function(a,b){
+	return a + b;
+}
+
+miFuncion(1,2);
+
+Nota: para guardar una variable dentro de un string se utiliza: `string${variable}`;

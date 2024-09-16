@@ -1,0 +1,39 @@
+¿Qué es un objeto?
+
+JavaScript está diseñado en un paradigma de objetos, por lo tanto es de suma importancia los objetos. Los objetos es como llevamos un objeto del mundo físico como por decir un carro a este paradigma de objetos en JavaScript, generariamos una variable carro por ejemplo y podríamos añadirle propiedades como marca, modelo, año.
+
+Para generar un objeto --> var objeto = {
+	
+}; 
+
+Las propiedades que se ubican dentro del objeto es una combinación entre palabras claves y valores.
+
+Generar un objeto con propiedades utilizando el ejemplo del carro --> 
+
+var miAuto = {
+	marca: "toyota",
+	modelo: "corola"
+	annio: 2020,
+	// No se utiliza la ñ porque es un caracter desconocido por Js //	
+};
+
+Para acceder a los valores de las propiedades del objeto --> miAuto.marca ......   miAuto.annio
+
+Las propiedades que llevan como valor una función se llaman métodos --> 
+
+
+
+var miAuto = {
+	marca: "toyota",
+	modelo: "corola"
+	annio: 2020,
+	detallDelAuto: function(){
+	console.log(`Auto ${this.marca} ${this.annio}`);
+
+	}	
+};
+
+
+Para mandar a llamar al método del objeto se utiliza --> miAuto.detalleDelAuto(); como si se fuera mandar a llamar una función
+
+this hace referencia al objeto global es decir a miAuto

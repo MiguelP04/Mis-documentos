@@ -1,0 +1,14 @@
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\bin\Debug\net8.0\Trabajar con numeros.exe
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\bin\Debug\net8.0\Trabajar con numeros.deps.json
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\bin\Debug\net8.0\Trabajar con numeros.runtimeconfig.json
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\bin\Debug\net8.0\Trabajar con numeros.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\bin\Debug\net8.0\Trabajar con numeros.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.AssemblyInfoInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.AssemblyInfo.cs
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\refint\Trabajar con numeros.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\Trabajar con numeros.genruntimeconfig.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con numeros\Trabajar con numeros\obj\Debug\net8.0\ref\Trabajar con numeros.dll

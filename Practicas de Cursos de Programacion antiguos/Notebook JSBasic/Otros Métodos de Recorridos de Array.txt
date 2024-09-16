@@ -1,0 +1,38 @@
+continuación de métodos de recorridos en un array.
+
+el método .find() nos ayuda a encontrar un elemento en este caso propiedades de objetos adentro de un array 
+
+IMPORTANTE: el método .find() solo nos muestra el primer valor que coincida con la condición que le proporcionemos... 
+
+A diferencia de .filter() que nos muestra todos los elementos que cumplan la condición dada, es decir lee todo el código y devuelve los elementos que pidamos específicamente
+
+var articulos = [
+	{ nombre. "Bici", costo: 3000,},
+	{ nombre: "Tv", costo: 2500,},
+	{nombre: "Libro", costo: 320},
+	{nombre: "Celular", costo: 10000},
+	{nombre: "Laptop", costo: 20000},
+	{nombre: "Teclado", costo: 500},
+	{nombre: "Audifonos", costo: 17000},
+];
+
+var encuentraArticulo = articulos.find(function(articulo){
+	return articulo.nombre === "Teclado"
+
+
+Otro método para recorrer es forEach que lo que hace es devolver los valores que le pidamos pero a diferencia de los métodos anteriores es que no genera un nuevo array ni modifica el array que tenemos solamente devuelve los valores especificados
+
+articulos.forEach(function(articulo){
+	console.log(articulo.nombre);
+}) 
+
+
+El método .some() valida si lo que trae es falso o verdadero, si incumple las condiciones dadas devolverá falso de lo contrario devolverá verdadero
+
+var validarArticulos = articulos.some(function(articulo){
+	return articulo.costo => 1000;
+})
+
+
+
+

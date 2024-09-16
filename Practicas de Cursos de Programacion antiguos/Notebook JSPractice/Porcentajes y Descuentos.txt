@@ -1,0 +1,8 @@
+Al momento de que una tienda tenga descuentos por motivos de publicidad, los clientes miran el porcentaje de descuento, pero no saben el precio generado por el mismo, solo hasta el momento de llegar a la caja. Entonces...
+
+Nosotros queremos que los clientes se motiven a la hora de pagar mirando el precio ya con el porcentaje integrado, no deseamos que se visualice lo que es quitado sino que se observe el precio original menos el descuento: 
+
+	100$------------>15%------------->85$
+
+	120$------------>15%------------->102$
+

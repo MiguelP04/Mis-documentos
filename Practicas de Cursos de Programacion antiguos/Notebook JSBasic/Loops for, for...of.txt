@@ -1,0 +1,24 @@
+¿Qué es un ciclo?
+
+Un ciclo es una manera rápida y sencilla en realizar tareas que puedan repetirse sin que se tenga que escribir manualmente. Este ciclo deja de ejecutarse hasta cumplirse una condición asignada.
+
+Ciclo usando la palabra reservada for
+
+var estudiantes = ["Maria", "Sergio", "Rosa", "Daniel"];
+
+function saludarEstudiantes(estudiante){
+	console.log(`Hola ${estudiante}`);
+}
+
+for(var i = 0; i < estudiantes.length; i++){
+	saludarEstudiantes(estudiantes[i]);
+}
+
+Ciclo usando la palabra reservada for...of
+
+var frutas = ["Manzanas", "Peras", "Fresas", "Bananas"];
+function saborearFrutas (fruta){
+	console.log(`Me gustan las ${fruta}`); 
+}
+
+for(var fruta of frutas){                             	saborearFrutas(fruta);                        }

@@ -1,0 +1,4 @@
+Pedro, 7.4 
+Miguel, 9.4 
+Carmen, 6.4 
+Lissandra, 1.4 

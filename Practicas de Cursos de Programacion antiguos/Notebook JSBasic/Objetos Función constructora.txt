@@ -1,0 +1,9 @@
+En objetos se genera un objeto miAuto que contiene propiedades como modelo, marca, año. Pero para no generar objetos por cada carro que se construya se utiliza la Función Constructora
+
+function auto(marca, modelo, annio) {
+	this.marca = marca;
+	this.modelo = modelo;
+	this.annio = annio;
+}
+
+var autoNuevo = new auto("Tesla", "Model 3", 2020);

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701024576 source:c:\users\miguel petit\documents\curso c++\total_notas_dos\main.cpp
+	<iostream>
+	<locale.h>
+	<conio.h>
+

@@ -1,0 +1,14 @@
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\bin\Debug\net8.0\Trabajar con textos.exe
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\bin\Debug\net8.0\Trabajar con textos.deps.json
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\bin\Debug\net8.0\Trabajar con textos.runtimeconfig.json
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\bin\Debug\net8.0\Trabajar con textos.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\bin\Debug\net8.0\Trabajar con textos.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.AssemblyInfoInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.AssemblyInfo.cs
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\refint\Trabajar con textos.dll
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.pdb
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\Trabajar con textos.genruntimeconfig.cache
+C:\Users\Miguel Petit\Documents\CursoC#\Trabajar con textos\Trabajar con textos\obj\Debug\net8.0\ref\Trabajar con textos.dll
